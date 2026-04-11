@@ -1,24 +1,98 @@
-import logo from './logo.svg';
-import './App.css';
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import { useEffect, useState } from "react";
+
+import Home from "./pages/Home";
+import Album from "./pages/Album";
+import Player from "./components/Player";
+import Sidebar from "./components/Sidebar";
+import About from "./pages/About";
+
+import "./App.css";
 
 function App() {
+  const [currentAlbum, setCurrentAlbum] = useState(null);
+  const [currentIndex, setCurrentIndex] = useState(null);
+  const [isSidebarOpen, setIsSidebarOpen] = useState(false);
+  const [restartTrack, setRestartTrack] = useState(false);
+  const [albums, setAlbums] = useState([]);
+
+  useEffect(() => {
+    fetch("/data/albums.json")
+      .then((res) => res.json())
+      .then((data) => setAlbums(data));
+  }, []);
+
+  const toggleSidebar = () => {
+    setIsSidebarOpen(!isSidebarOpen);
+  };
+  const closeSidebar = () => {
+    setIsSidebarOpen(false);
+  };
+
+  const handlePlay = (album, index) => {
+    if (currentAlbum?.id === album.id && currentIndex === index) {
+      // same track → trigger restart
+      setRestartTrack(prev => !prev);
+    } else {
+      setCurrentAlbum(album);
+      setCurrentIndex(index);
+    }
+  };
+
+  const currentTrack =
+    currentAlbum && currentIndex !== null
+      ? currentAlbum.tracks[currentIndex]
+      : null;
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <Router>
+      <div className="layout">
+        {isSidebarOpen && (
+          <div className="overlay" onClick={closeSidebar}></div>
+        )}
+
+        <Sidebar
+          isOpen={isSidebarOpen}
+          closeSidebar={closeSidebar}
+          currentAlbum={currentAlbum}
+          albums={albums}
+        />
+
+        <div className="mobile-hamburger" onClick={toggleSidebar}>
+          ☰
+        </div>
+
+        {/* NEW WRAPPER */}
+        <div className="content">
+          <div className="main">
+            <Routes>
+              <Route path="/" element={<Home albums={albums} />} />
+              <Route path="/about" element={<About />} />
+              <Route
+                path="/album/:id"
+                element={
+                  <Album
+                    albums={albums}
+                    handlePlay={handlePlay}
+                    currentAlbum={currentAlbum}
+                    currentIndex={currentIndex}
+                  />
+                }
+              />
+            </Routes>
+          </div>
+
+          {/* PLAYER NOW PART OF LAYOUT */}
+          <Player
+            currentTrack={currentTrack}
+            currentAlbum={currentAlbum}
+            currentIndex={currentIndex}
+            setCurrentIndex={setCurrentIndex}
+            restartTrack={restartTrack}
+          />
+        </div>
+      </div>
+    </Router>
   );
 }
 

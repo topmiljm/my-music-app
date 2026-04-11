@@ -1,0 +1,848 @@
+[
+  {
+    "id": "a-tape",
+    "title": "A Tape",
+    "artist": "Zen Zinnati",
+    "cover": "/covers/a-tape.jpg",
+    "totalDuration": 2471,
+    "tracks": [
+      {
+        "id": "1",
+        "title": "Can Never Steal My Dream",
+        "src": "/music/A Tape/01.Can Never Steal My Dream.wav",
+        "duration": 203
+      },
+      {
+        "id": "2",
+        "title": "Forensick",
+        "src": "/music/A Tape/02.Forensick.wav",
+        "duration": 197
+      },
+      {
+        "id": "3",
+        "title": "Inimitable",
+        "src": "/music/A Tape/03.Inimitable.wav",
+        "duration": 213
+      },
+      {
+        "id": "4",
+        "title": "Fat Pockets",
+        "src": "/music/A Tape/04.Fat Pockets.wav",
+        "duration": 215
+      },
+      {
+        "id": "5",
+        "title": "Runners",
+        "src": "/music/A Tape/05.Runners.wav",
+        "duration": 218
+      },
+      {
+        "id": "6",
+        "title": "R U Not Entertained",
+        "src": "/music/A Tape/06.R U Not Entertained.wav",
+        "duration": 176
+      },
+      {
+        "id": "7",
+        "title": "92 At the Knees",
+        "src": "/music/A Tape/07.92 At the Knees.wav",
+        "duration": 198
+      },
+      {
+        "id": "8",
+        "title": "Chop It Down",
+        "src": "/music/A Tape/08.Chop It Down.wav",
+        "duration": 222
+      },
+      {
+        "id": "9",
+        "title": "Somebody Lied",
+        "src": "/music/A Tape/09.Somebody Lied.wav",
+        "duration": 205
+      },
+      {
+        "id": "10",
+        "title": "Beep Beep",
+        "src": "/music/A Tape/10.Beep Beep.wav",
+        "duration": 241
+      },
+      {
+        "id": "11",
+        "title": "Temptation",
+        "src": "/music/A Tape/11.Temptation.wav",
+        "duration": 190
+      },
+      {
+        "id": "12",
+        "title": "No Matter How Things May Be",
+        "src": "/music/A Tape/12.No Matter How Things May Be.wav",
+        "duration": 193
+      }
+    ]
+  },
+  {
+    "id": "b-tape",
+    "title": "B Tape",
+    "artist": "Zen Zinnati",
+    "cover": "/covers/b-tape.jpg",
+    "totalDuration": 2033,
+    "tracks": [
+      {
+        "id": "1",
+        "title": "Venus",
+        "src": "/music/B Tape/01.Venus.wav",
+        "duration": 80
+      },
+      {
+        "id": "2",
+        "title": "Cause Problem",
+        "src": "/music/B Tape/02.Cause Problem.wav",
+        "duration": 213
+      },
+      {
+        "id": "3",
+        "title": "Call The Waiter",
+        "src": "/music/B Tape/03.Call The Waiter.wav",
+        "duration": 168
+      },
+      {
+        "id": "4",
+        "title": "That Wind",
+        "src": "/music/B Tape/04.That Wind.wav",
+        "duration": 168
+      },
+      {
+        "id": "5",
+        "title": "Like I Do",
+        "src": "/music/B Tape/05.Like I Do.wav",
+        "duration": 168
+      },
+      {
+        "id": "6",
+        "title": "What You Wanna Do",
+        "src": "/music/B Tape/06.What You Wanna Do.wav",
+        "duration": 92
+      },
+      {
+        "id": "7",
+        "title": "Precocious",
+        "src": "/music/B Tape/07.Precocious.wav",
+        "duration": 185
+      },
+      {
+        "id": "8",
+        "title": "Recognize",
+        "src": "/music/B Tape/08.Recognize.wav",
+        "duration": 248
+      },
+      {
+        "id": "9",
+        "title": "Dark Picket Fence",
+        "src": "/music/B Tape/09.Dark Picket Fence.wav",
+        "duration": 110
+      },
+      {
+        "id": "10",
+        "title": "Typical",
+        "src": "/music/B Tape/10.Typical.wav",
+        "duration": 159
+      },
+      {
+        "id": "11",
+        "title": "Winter",
+        "src": "/music/B Tape/11.Winter.wav",
+        "duration": 178
+      },
+      {
+        "id": "12",
+        "title": "Looking At A Star",
+        "src": "/music/B Tape/12.Looking At A Star.wav",
+        "duration": 264
+      }
+    ]
+  },
+  {
+    "id": "beauty",
+    "title": "Beauty",
+    "artist": "Zen Zinnati",
+    "cover": "/covers/beauty.jpg",
+    "totalDuration": 1967,
+    "tracks": [
+      {
+        "id": "1",
+        "title": "Soak",
+        "src": "/music/Beauty/01.Soak.wav",
+        "duration": 198
+      },
+      {
+        "id": "2",
+        "title": "East to West Girls",
+        "src": "/music/Beauty/02.East to West Girls.wav",
+        "duration": 186
+      },
+      {
+        "id": "3",
+        "title": "Be World Famous",
+        "src": "/music/Beauty/03.Be World Famous.wav",
+        "duration": 197
+      },
+      {
+        "id": "4",
+        "title": "Blow It In The Air",
+        "src": "/music/Beauty/04.Blow It In The Air.wav",
+        "duration": 206
+      },
+      {
+        "id": "5",
+        "title": "Lost In the Rain",
+        "src": "/music/Beauty/05.Lost In the Rain.wav",
+        "duration": 223
+      },
+      {
+        "id": "6",
+        "title": "Happy Elated",
+        "src": "/music/Beauty/06.Happy Elated.wav",
+        "duration": 186
+      },
+      {
+        "id": "7",
+        "title": "Everything Brighter",
+        "src": "/music/Beauty/07.Everything Brighter.wav",
+        "duration": 219
+      },
+      {
+        "id": "8",
+        "title": "Alone I Dream",
+        "src": "/music/Beauty/08.Alone I Dream.wav",
+        "duration": 166
+      },
+      {
+        "id": "9",
+        "title": "Good Talk",
+        "src": "/music/Beauty/09.Good Talk.wav",
+        "duration": 209
+      },
+      {
+        "id": "10",
+        "title": "All of That Tea",
+        "src": "/music/Beauty/10.All of That Tea.wav",
+        "duration": 177
+      }
+    ]
+  },
+  {
+    "id": "c-tape",
+    "title": "C Tape",
+    "artist": "Zen Zinnati",
+    "cover": "/covers/c-tape.jpg",
+    "totalDuration": 2713,
+    "tracks": [
+      {
+        "id": "1",
+        "title": "Record A Song For You",
+        "src": "/music/C Tape/a01.Record A Song For You.wav",
+        "duration": 237
+      },
+      {
+        "id": "2",
+        "title": "Like I Might Have Seen Ya",
+        "src": "/music/C Tape/a02.Like I Might Have Seen Ya.wav",
+        "duration": 194
+      },
+      {
+        "id": "3",
+        "title": "I Got A Song",
+        "src": "/music/C Tape/a03.I Got A Song.wav",
+        "duration": 237
+      },
+      {
+        "id": "4",
+        "title": "I Don't Need",
+        "src": "/music/C Tape/a04.I Don't Need.wav",
+        "duration": 180
+      },
+      {
+        "id": "5",
+        "title": "I'll Write You",
+        "src": "/music/C Tape/a05.I'll Write You.wav",
+        "duration": 189
+      },
+      {
+        "id": "6",
+        "title": "Take Me To Jail",
+        "src": "/music/C Tape/a06.Take Me To Jail.wav",
+        "duration": 156
+      },
+      {
+        "id": "7",
+        "title": "New Force (LaLa)",
+        "src": "/music/C Tape/a07.New Force (LaLa).wav",
+        "duration": 208
+      },
+      {
+        "id": "8",
+        "title": "Intoxicated",
+        "src": "/music/C Tape/a08.Intoxicated.wav",
+        "duration": 258
+      },
+      {
+        "id": "9",
+        "title": "It Make Me Laugh",
+        "src": "/music/C Tape/a09.It Make Me Laugh.wav",
+        "duration": 144
+      },
+      {
+        "id": "10",
+        "title": "Choo Choo",
+        "src": "/music/C Tape/a10.Choo Choo.wav",
+        "duration": 241
+      },
+      {
+        "id": "11",
+        "title": "Fuzz",
+        "src": "/music/C Tape/A11.Fuzz.wav",
+        "duration": 210
+      },
+      {
+        "id": "12",
+        "title": "Mister Demeanor",
+        "src": "/music/C Tape/a12.Mister Demeanor.wav",
+        "duration": 182
+      },
+      {
+        "id": "13",
+        "title": "Galactic",
+        "src": "/music/C Tape/a13.Galactic.wav",
+        "duration": 37
+      },
+      {
+        "id": "14",
+        "title": "Super Sweet Obscene",
+        "src": "/music/C Tape/a14.Super Sweet Obscene.wav",
+        "duration": 240
+      }
+    ]
+  },
+  {
+    "id": "d-tape",
+    "title": "D Tape",
+    "artist": "Zen Zinnati",
+    "cover": "/covers/d-tape.jpg",
+    "totalDuration": 2536,
+    "tracks": [
+      {
+        "id": "1",
+        "title": "Speak To Me",
+        "src": "/music/D Tape/z01.Speak To Me.wav",
+        "duration": 156
+      },
+      {
+        "id": "2",
+        "title": "Fierceo",
+        "src": "/music/D Tape/z02.Fierceo.wav",
+        "duration": 240
+      },
+      {
+        "id": "3",
+        "title": "Hy Heaven",
+        "src": "/music/D Tape/z03.Hy Heaven.wav",
+        "duration": 183
+      },
+      {
+        "id": "4",
+        "title": "Still Fly On No Sleep",
+        "src": "/music/D Tape/z04.Still Fly On No Sleep.wav",
+        "duration": 213
+      },
+      {
+        "id": "5",
+        "title": "Smokey",
+        "src": "/music/D Tape/z05.Smokey.wav",
+        "duration": 144
+      },
+      {
+        "id": "6",
+        "title": "Fossil",
+        "src": "/music/D Tape/z06.Fossil.wav",
+        "duration": 178
+      },
+      {
+        "id": "7",
+        "title": "Oh, Now You Do",
+        "src": "/music/D Tape/z07.Oh, Now You Do.wav",
+        "duration": 233
+      },
+      {
+        "id": "8",
+        "title": "Mad Dog",
+        "src": "/music/D Tape/z08.Mad Dog.wav",
+        "duration": 46
+      },
+      {
+        "id": "9",
+        "title": "Mile High",
+        "src": "/music/D Tape/z09.Mile High.wav",
+        "duration": 157
+      },
+      {
+        "id": "10",
+        "title": "Band",
+        "src": "/music/D Tape/z10.Band.wav",
+        "duration": 268
+      },
+      {
+        "id": "11",
+        "title": "Like That",
+        "src": "/music/D Tape/z11.Like That.wav",
+        "duration": 217
+      },
+      {
+        "id": "12",
+        "title": "Gloomers",
+        "src": "/music/D Tape/z12.Gloomers.wav",
+        "duration": 177
+      },
+      {
+        "id": "13",
+        "title": "Time N Place",
+        "src": "/music/D Tape/z13.Time N Place.wav",
+        "duration": 59
+      },
+      {
+        "id": "14",
+        "title": "When I Leave",
+        "src": "/music/D Tape/z14.When I Leave.wav",
+        "duration": 265
+      }
+    ]
+  },
+  {
+    "id": "e-tape",
+    "title": "E Tape",
+    "artist": "Zen Zinnati",
+    "cover": "/covers/e-tape.jpg",
+    "totalDuration": 2792,
+    "tracks": [
+      {
+        "id": "1",
+        "title": "Sleeves",
+        "src": "/music/E Tape/x01.Sleeves.wav",
+        "duration": 232
+      },
+      {
+        "id": "2",
+        "title": "Thunder",
+        "src": "/music/E Tape/x02.Thunder.wav",
+        "duration": 167
+      },
+      {
+        "id": "3",
+        "title": "Dope People",
+        "src": "/music/E Tape/x03.Dope People.wav",
+        "duration": 214
+      },
+      {
+        "id": "4",
+        "title": "Dirt Tricks",
+        "src": "/music/E Tape/x04.Dirt Tricks.wav",
+        "duration": 186
+      },
+      {
+        "id": "5",
+        "title": "Don't Understand",
+        "src": "/music/E Tape/x05.Don't Understand.wav",
+        "duration": 211
+      },
+      {
+        "id": "6",
+        "title": "Mali",
+        "src": "/music/E Tape/x06.Mali.wav",
+        "duration": 267
+      },
+      {
+        "id": "7",
+        "title": "Look Glorious",
+        "src": "/music/E Tape/x07.Look Glorious.wav",
+        "duration": 152
+      },
+      {
+        "id": "8",
+        "title": "Thirteenth Floor",
+        "src": "/music/E Tape/x08.Thirteenth Floor.wav",
+        "duration": 231
+      },
+      {
+        "id": "9",
+        "title": "Sick Wit It",
+        "src": "/music/E Tape/x09.Sick Wit It.wav",
+        "duration": 135
+      },
+      {
+        "id": "10",
+        "title": "A King Is A King",
+        "src": "/music/E Tape/x10.A King Is A King.wav",
+        "duration": 222
+      },
+      {
+        "id": "11",
+        "title": "Flaming Yawn",
+        "src": "/music/E Tape/x11.Flaming Yawn.wav",
+        "duration": 225
+      },
+      {
+        "id": "12",
+        "title": "Taste",
+        "src": "/music/E Tape/x12.Taste.wav",
+        "duration": 144
+      },
+      {
+        "id": "13",
+        "title": "Cuatro",
+        "src": "/music/E Tape/x13.Cuatro.wav",
+        "duration": 189
+      },
+      {
+        "id": "14",
+        "title": "On My Way to Wonderful",
+        "src": "/music/E Tape/x14.On My Way to Wonderful.wav",
+        "duration": 217
+      }
+    ]
+  },
+  {
+    "id": "nite-walk",
+    "title": "Nite Walk",
+    "artist": "Zen Zinnati",
+    "cover": "/covers/nite-walk.jpg",
+    "totalDuration": 2503,
+    "tracks": [
+      {
+        "id": "1",
+        "title": "Traveller",
+        "src": "/music/Nite-Walk/01.Traveller.wav",
+        "duration": 179
+      },
+      {
+        "id": "2",
+        "title": "You Play Your Cards Right",
+        "src": "/music/Nite-Walk/02.You Play Your Cards Right.wav",
+        "duration": 224
+      },
+      {
+        "id": "3",
+        "title": "He Don't Hang Around",
+        "src": "/music/Nite-Walk/03.He Don't Hang Around.wav",
+        "duration": 241
+      },
+      {
+        "id": "4",
+        "title": "Fire Up",
+        "src": "/music/Nite-Walk/04.Fire Up.wav",
+        "duration": 211
+      },
+      {
+        "id": "5",
+        "title": "Monster In The Dark",
+        "src": "/music/Nite-Walk/05.Monster In The Dark.wav",
+        "duration": 234
+      },
+      {
+        "id": "6",
+        "title": "Make A Scene For Me",
+        "src": "/music/Nite-Walk/06.Make A Scene For Me.wav",
+        "duration": 209
+      },
+      {
+        "id": "7",
+        "title": "Rock de Hard Place",
+        "src": "/music/Nite-Walk/07.Rock de Hard Place.wav",
+        "duration": 184
+      },
+      {
+        "id": "8",
+        "title": "Peek It Real",
+        "src": "/music/Nite-Walk/08.Peek It Real.wav",
+        "duration": 191
+      },
+      {
+        "id": "9",
+        "title": "Have the World",
+        "src": "/music/Nite-Walk/09.Have the World.wav",
+        "duration": 179
+      },
+      {
+        "id": "10",
+        "title": "Crows (No Love)",
+        "src": "/music/Nite-Walk/10.Crows (No Love).wav",
+        "duration": 215
+      },
+      {
+        "id": "11",
+        "title": "Feeling Different",
+        "src": "/music/Nite-Walk/11.Feeling Different.wav",
+        "duration": 228
+      },
+      {
+        "id": "12",
+        "title": "People Say",
+        "src": "/music/Nite-Walk/12.People Say.wav",
+        "duration": 208
+      }
+    ]
+  },
+  {
+    "id": "the-neighborhood-changed",
+    "title": "The Neighborhood Changed",
+    "artist": "Zen Zinnati",
+    "cover": "/covers/the-neighborhood-changed.jpg",
+    "totalDuration": 1993,
+    "tracks": [
+      {
+        "id": "1",
+        "title": "Trigger",
+        "src": "/music/The Neighborhood Changed/01.Trigger.wav",
+        "duration": 191
+      },
+      {
+        "id": "2",
+        "title": "Sole Benefactor",
+        "src": "/music/The Neighborhood Changed/02.Sole Benefactor.wav",
+        "duration": 177
+      },
+      {
+        "id": "3",
+        "title": "New Moon Money",
+        "src": "/music/The Neighborhood Changed/03.New Moon Money.wav",
+        "duration": 197
+      },
+      {
+        "id": "4",
+        "title": "Island Hopping Turnstyles",
+        "src": "/music/The Neighborhood Changed/04.Island Hopping Turnstyles.wav",
+        "duration": 193
+      },
+      {
+        "id": "5",
+        "title": "Queen of the Ghetto",
+        "src": "/music/The Neighborhood Changed/05.Queen of the Ghetto.wav",
+        "duration": 200
+      },
+      {
+        "id": "6",
+        "title": "Dope Abyss",
+        "src": "/music/The Neighborhood Changed/06.Dope Abyss.wav",
+        "duration": 174
+      },
+      {
+        "id": "7",
+        "title": "Man Alive",
+        "src": "/music/The Neighborhood Changed/07.Man Alive.wav",
+        "duration": 238
+      },
+      {
+        "id": "8",
+        "title": "Burkina Faso",
+        "src": "/music/The Neighborhood Changed/08.Burkina Faso.wav",
+        "duration": 194
+      },
+      {
+        "id": "9",
+        "title": "Expect That",
+        "src": "/music/The Neighborhood Changed/09.Expect That.wav",
+        "duration": 243
+      },
+      {
+        "id": "10",
+        "title": "Ill Zone",
+        "src": "/music/The Neighborhood Changed/10.Ill Zone.wav",
+        "duration": 186
+      }
+    ]
+  },
+  {
+    "id": "the-'09-dreamer-phase-tape",
+    "title": "The '09 Dreamer Phase Tape",
+    "artist": "Zen Zinnati",
+    "cover": "/covers/the-'09-dreamer-phase-tape.jpg",
+    "totalDuration": 2975,
+    "tracks": [
+      {
+        "id": "1",
+        "title": "Good Cops and Bad Pixar Movies",
+        "src": "/music/The-'09-Dreamer-Phase-Tape/01.Good Cops and Bad Pixar Movies.wav",
+        "duration": 178
+      },
+      {
+        "id": "2",
+        "title": "Silver Tongue",
+        "src": "/music/The-'09-Dreamer-Phase-Tape/02.Silver Tongue.wav",
+        "duration": 202
+      },
+      {
+        "id": "3",
+        "title": "Bon Voyage",
+        "src": "/music/The-'09-Dreamer-Phase-Tape/03.Bon Voyage.wav",
+        "duration": 204
+      },
+      {
+        "id": "4",
+        "title": "09 Dreamer Phase",
+        "src": "/music/The-'09-Dreamer-Phase-Tape/04.09 Dreamer Phase.wav",
+        "duration": 224
+      },
+      {
+        "id": "5",
+        "title": "Knock Me Back To Earth",
+        "src": "/music/The-'09-Dreamer-Phase-Tape/05.Knock Me Back To Earth.wav",
+        "duration": 182
+      },
+      {
+        "id": "6",
+        "title": "The Aha Moment",
+        "src": "/music/The-'09-Dreamer-Phase-Tape/06.The Aha Moment.wav",
+        "duration": 243
+      },
+      {
+        "id": "7",
+        "title": "Dialed Up",
+        "src": "/music/The-'09-Dreamer-Phase-Tape/07.Dialed Up.wav",
+        "duration": 197
+      },
+      {
+        "id": "8",
+        "title": "Take Me To Clouds",
+        "src": "/music/The-'09-Dreamer-Phase-Tape/08.Take Me To Clouds.wav",
+        "duration": 238
+      },
+      {
+        "id": "9",
+        "title": "Gullible",
+        "src": "/music/The-'09-Dreamer-Phase-Tape/09.Gullible.wav",
+        "duration": 182
+      },
+      {
+        "id": "10",
+        "title": "Hearts In Bubbles",
+        "src": "/music/The-'09-Dreamer-Phase-Tape/10.Hearts In Bubbles.wav",
+        "duration": 194
+      },
+      {
+        "id": "11",
+        "title": "Be Funny",
+        "src": "/music/The-'09-Dreamer-Phase-Tape/11.Be Funny.wav",
+        "duration": 171
+      },
+      {
+        "id": "12",
+        "title": "Whether You Like The Weather Or Not",
+        "src": "/music/The-'09-Dreamer-Phase-Tape/12.Whether You Like The Weather Or Not.wav",
+        "duration": 173
+      },
+      {
+        "id": "13",
+        "title": "After The Storm",
+        "src": "/music/The-'09-Dreamer-Phase-Tape/13.After The Storm.wav",
+        "duration": 188
+      },
+      {
+        "id": "14",
+        "title": "Plantain",
+        "src": "/music/The-'09-Dreamer-Phase-Tape/14.Plantain.wav",
+        "duration": 168
+      },
+      {
+        "id": "15",
+        "title": "Tower",
+        "src": "/music/The-'09-Dreamer-Phase-Tape/15.Tower.wav",
+        "duration": 231
+      }
+    ]
+  },
+  {
+    "id": "the-menahan-street-nyc-tape",
+    "title": "The Menahan Street NYC Tape",
+    "artist": "Zen Zinnati",
+    "cover": "/covers/the-menahan-street-nyc-tape.jpg",
+    "totalDuration": 2384,
+    "tracks": [
+      {
+        "id": "1",
+        "title": "Luna",
+        "src": "/music/The-Menahan-Street-NYC-Tape/1. Luna.wav",
+        "duration": 191
+      },
+      {
+        "id": "2",
+        "title": "G Train",
+        "src": "/music/The-Menahan-Street-NYC-Tape/2. G Train.wav",
+        "duration": 212
+      },
+      {
+        "id": "3",
+        "title": "Those Waves",
+        "src": "/music/The-Menahan-Street-NYC-Tape/3. Those Waves.wav",
+        "duration": 200
+      },
+      {
+        "id": "4",
+        "title": "Tony Talk",
+        "src": "/music/The-Menahan-Street-NYC-Tape/4. Tony Talk.wav",
+        "duration": 207
+      },
+      {
+        "id": "5",
+        "title": "Salmon",
+        "src": "/music/The-Menahan-Street-NYC-Tape/5. Salmon.wav",
+        "duration": 199
+      },
+      {
+        "id": "6",
+        "title": "Fillet",
+        "src": "/music/The-Menahan-Street-NYC-Tape/6. Fillet.wav",
+        "duration": 189
+      },
+      {
+        "id": "7",
+        "title": "Rosie",
+        "src": "/music/The-Menahan-Street-NYC-Tape/7. Rosie.wav",
+        "duration": 188
+      },
+      {
+        "id": "8",
+        "title": "Helen of Troy",
+        "src": "/music/The-Menahan-Street-NYC-Tape/8. Helen of Troy.wav",
+        "duration": 172
+      },
+      {
+        "id": "9",
+        "title": "Coming",
+        "src": "/music/The-Menahan-Street-NYC-Tape/9. Coming.wav",
+        "duration": 178
+      },
+      {
+        "id": "10",
+        "title": "Buddy",
+        "src": "/music/The-Menahan-Street-NYC-Tape/10. Buddy.wav",
+        "duration": 187
+      },
+      {
+        "id": "11",
+        "title": "Velcro",
+        "src": "/music/The-Menahan-Street-NYC-Tape/11. Velcro.wav",
+        "duration": 145
+      },
+      {
+        "id": "12",
+        "title": "Zags",
+        "src": "/music/The-Menahan-Street-NYC-Tape/12. Zags.wav",
+        "duration": 162
+      },
+      {
+        "id": "13",
+        "title": "Iron Claws",
+        "src": "/music/The-Menahan-Street-NYC-Tape/13. Iron Claws.wav",
+        "duration": 154
+      }
+    ]
+  }
+]

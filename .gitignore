@@ -8,6 +8,9 @@
 # testing
 /coverage
 
+public/music/
+Screenshots/
+
 # production
 /build
 

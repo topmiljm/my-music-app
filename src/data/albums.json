@@ -1,0 +1,40 @@
+[
+  {
+    "id": "beauty",
+    "title": "Beauty",
+    "artist": "You",
+    "cover": "/covers/beauty.jpg",
+    "tracks": [
+      { "id": "1", "title": "East to West Girls", "src": "/music/Beauty/01.East to West Girls.wav" },
+      { "id": "2", "title": "Soak", "src": "/music/Beauty/02.Soak.wav" },
+      { "id": "3", "title": "Blow It In The Air", "src": "/music/Beauty/03.Blow It In The Air.wav" },
+      { "id": "4", "title": "Be World Famous", "src": "/music/Beauty/04.Be World Famous.wav" },
+      { "id": "5", "title": "Lost In the Rain", "src": "/music/Beauty/05.Lost In the Rain.wav" },
+      { "id": "6", "title": "Happy Elated", "src": "/music/Beauty/06.Happy Elated.wav" },
+      { "id": "7", "title": "Everything Brighter", "src": "/music/Beauty/07.Everything Brighter.wav" },
+      { "id": "8", "title": "Alone I Dream", "src": "/music/Beauty/08.Alone I Dream.wav" },
+      { "id": "9", "title": "Good Talk", "src": "/music/Beauty/09.Good Talk.wav" },
+      { "id": "10", "title": "All of the Team", "src": "/music/Beauty/10.All of the Team.wav" }
+    ]
+  },
+  {
+    "id": "nite-walk",
+    "title": "Nite Walk",
+    "artist": "You",
+    "cover": "/covers/nite-walk.jpg",
+    "tracks": [
+      { "id": "1", "title": "Traveller", "src": "/music/Nite-Walk/01.Traveller.wav" },
+      { "id": "2", "title": "You Play Your Cards Right", "src": "/music/Nite-Walk/02.You Play Your Cards Right.wav" },
+      { "id": "3", "title": "He Don't Hang Around", "src": "/music/Nite-Walk/03.He Don't Hang Around.wav" },
+      { "id": "4", "title": "Fire Up", "src": "/music/Nite-Walk/04.Fire Up.wav" },
+      { "id": "5", "title": "Monster In The Dark", "src": "/music/Nite-Walk/05.Monster In The Dark.wav" },
+      { "id": "6", "title": "Make A Scene For Me", "src": "/music/Nite-Walk/06.Make A Scene For Me.wav" },
+      { "id": "7", "title": "Rock de Hard Place", "src": "/music/Nite-Walk/07.Rock de Hard Place.wav" },
+      { "id": "8", "title": "Peek It Real", "src": "/music/Nite-Walk/08.Peek It Real.wav" },
+      { "id": "9", "title": "Have the World", "src": "/music/Nite-Walk/09.Have the World.wav" },
+      { "id": "10", "title": "Crows (No Love)", "src": "/music/Nite-Walk/10.Crows (No Love).wav" },
+      { "id": "11", "title": "Feeling Different", "src": "/music/Nite-Walk/11.Feeling Different.wav" },
+      { "id": "12", "title": "People Say", "src": "/music/Nite-Walk/12.People Say.wav" }
+    ]
+  }
+]
