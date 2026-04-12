@@ -57,19 +57,16 @@ const Player = ({
   useEffect(() => {
     if (audioRef.current && currentTrack) {
       audioRef.current.load();
-      audioRef.current.play();
-      setIsPlaying(true);
-    }
-  }, [currentTrack]);
-
-  // 🔁 Restart same track
-  useEffect(() => {
-    if (audioRef.current) {
       audioRef.current.currentTime = 0;
-      audioRef.current.play();
+
+      const playPromise = audioRef.current.play();
+      if (playPromise !== undefined) {
+        playPromise.catch(() => { });
+      }
+
       setIsPlaying(true);
     }
-  }, [restartTrack]);
+  }, [currentTrack, restartTrack]);
 
   // 🔊 Volume sync
   useEffect(() => {
@@ -140,7 +137,7 @@ const Player = ({
       <div className="player-left" onClick={() => navigate(`/album/${currentAlbum.id}`)}>
         <img src={currentAlbum.cover} alt="" />
 
-        <div className="track-info">  
+        <div className="track-info">
           <h4>
             {currentTrack.title.length > 25
               ? currentTrack.title.slice(0, 25) + "…"
@@ -208,7 +205,7 @@ const Player = ({
         onTimeUpdate={handleTimeUpdate}
         onEnded={handleEnded}
       >
-        <source src={currentTrack.src} type="audio/mpeg" />
+        <source src={currentTrack.src} type="audio/wav" />
       </audio>
     </div>
   );
