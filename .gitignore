@@ -9,7 +9,7 @@
 /coverage
 
 public/music/
-Screenshots/
+# Screenshots/
 
 # production
 /build

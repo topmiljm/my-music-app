@@ -1,6 +1,6 @@
 # 🎵 Zen Zinnati Music App
 
-A full-stack music streaming web app showcasing the discography of **Zen Zinnati** — a music production project blending electronic, hip hop, indie, and experimental sounds.
+A Frontend music streaming web app showcasing the discography of **Zen Zinnati** — a music production project blending electronic, hip hop, indie, and experimental sounds.
 
 🌐 **Live Site:** https://zenzinnatimusic.vercel.app/
 
@@ -21,9 +21,9 @@ A full-stack music streaming web app showcasing the discography of **Zen Zinnati
 ## 🛠️ Tech Stack
 
 * **Frontend:** React, React Router
-* **Backend:** Node.js / Express
-* **Hosting:** Vercel (frontend), Render (backend)
-* **Media Hosting:** Cloudinary
+* **Data Source:** Local JSON (`/public/data/albums.json`)
+* **Hosting:** Vercel
+* **Media Hosting:** Cloudinary + local assets
 
 ---
 
