@@ -254,6 +254,7 @@ body {
 
   padding: 0 20px;
   z-index: 200;
+  width: 99%;
 }
 
 /* Player left */
@@ -424,6 +425,7 @@ body {
     flex-direction: column;
     height: 100px;
     padding: 10px;
+    width: 100%;
   }
 
   .player-left {
